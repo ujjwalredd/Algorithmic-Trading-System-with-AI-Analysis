@@ -272,14 +272,3 @@ This software is for educational and research purposes only. It is not intended 
 - ✅ **Technical Indicators**: Complete set of trading indicators
 - ✅ **Data Management**: Yahoo Finance integration with caching
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/yourusername/algorithmic-trading/issues) page
-2. Create a new issue with detailed information
-3. Include your Python version, operating system, and error messages
-
----
-
-**Made with ❤️ for algorithmic trading enthusiasts** 
