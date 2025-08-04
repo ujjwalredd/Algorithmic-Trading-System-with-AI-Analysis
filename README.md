@@ -253,9 +253,6 @@ Best Performing Symbol: NVDA
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## ⚠️ Disclaimer
-
-This software is for educational and research purposes only. It is not intended to provide financial advice. Trading involves substantial risk of loss and is not suitable for all investors. Past performance does not guarantee future results.
 
 ## 🔄 Version History
 
